@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/arize99"><img radius="50%" src="https://avatars.githubusercontent.com/u/28790396?v=4"></a>
+  <a href="https://github.com/arize99"><img border-radius: 50% src="https://avatars.githubusercontent.com/u/28790396?v=4"></a>
 </p>
 
  
@@ -68,7 +68,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧![WhatsappGIF](https://github.com/arize99/arize99/assets/28790396/51f6e82f-24a6-4c28-885e-74184413970c)
+ 📧 <i class="fa fa-whatsapp" style="font-size:48px;color:Green"></i>
  &emsp; Reach me anytime: https://wa.me/2347062573851<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/arize99/arize99/issues)
 
@@ -107,7 +107,7 @@
 [![Interactive Image Gallery](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=interactive-image-gallery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/interactive-image-gallery)
 [![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=hospital-managment-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/hospital-management-system)
 [![Task Timer](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=task-timer-pomodoro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/task-timer-pomodoro)
-[![Slide Puzzle Arize](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=slide_puzzle_arize.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/slide_puzzle_arize)
+[![Slide Puzzle Arize](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=slide_puzzle_arize&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/slide_puzzle_arize)
 
 <p align="left">
   <a href="https://github.com/arize99?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
