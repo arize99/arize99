@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/arize99"><img src="https://avatars.githubusercontent.com/u/28790396?v=4"></a>
+  <a href="https://github.com/arize99"><img radius="50%" src="https://avatars.githubusercontent.com/u/28790396?v=4"></a>
 </p>
 
  
@@ -63,15 +63,8 @@
  # About me
  
 <p>
-   <style>
-     .progg{
-  width: 200px;
-  height:200px;
-  border-radius: 50%;
-}
-   </style>
   <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
- <class="progg" img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoZ21wN3ZzYTZnZjRjNTU0aXp4cGlobnNpOGZxangzMHc5OTV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoZ21wN3ZzYTZnZjRjNTU0aXp4cGlobnNpOGZxangzMHc5OTV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
