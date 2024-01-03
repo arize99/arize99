@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/arize" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arize" />
+ <a href="https://skype:arizennonyelu?chat" target="blank">
+  <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="arize" />
  </a>
  <a href="https://linkedin.com/in/arize" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arize"/>
@@ -68,7 +68,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: arizennonyelu@gmail.com<br/><br/>
+ 📧![WhatsappGIF](https://github.com/arize99/arize99/assets/28790396/51f6e82f-24a6-4c28-885e-74184413970c)
+ &emsp; Reach me anytime: https://wa.me/2347062573851<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/arize99/arize99/issues)
 
 </p>
