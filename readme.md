@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/arize99"><img border-radius: 50% src="/assets/arize.gif"></a>
+  <a href="https://github.com/arize99"><img width="500px" height="500px" src="/assets/arize.gif"></a>
 </p>
 
  
@@ -81,7 +81,7 @@
 
 ## Tools
 <br/>
-#Coding
+<strong>Coding</strong><br/>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
