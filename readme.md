@@ -47,6 +47,9 @@
  <a href="https://dev.to/arize99" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="arize" />
  </a>
+   <a href="https://www.hackerrank.com/aristotlejpg" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="arize" />
+ </a>
  <a href="https://twitter.com/upgrade1010" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="arize" />
  </a>
@@ -167,10 +170,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/arize99"><img alt="Arize's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/arize99"><img alt="Arize's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/arize99"><img alt="Arize's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arize99&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/arize99"><img alt="Arize's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arize99&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Arize's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Arize's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Arize's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arize99&custom_title=Arize's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
