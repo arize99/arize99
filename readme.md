@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Arize+Nnonyelu">「 Google Me 」</a>
     <br>
-    「 I am a Fullstack web developer from <b>South-Eastern Nigeria</b> 」
+    「 I am a Frontend web/ mobile app developer from <b>South-Eastern Nigeria</b> 」
     <br>
     <br>
   </samp>
