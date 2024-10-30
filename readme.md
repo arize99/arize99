@@ -144,10 +144,10 @@
 <br/>
 
 ## Top Open Source -
-[![Free Weather App](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=interactive-image-gallery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/arize99/interactive-image-gallery])
+[![Free Weather App](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=interactive-image-gallery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/arize99/free-weather-app])
 [![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=hospital-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/hospital-management-system)
 [![Task Timer](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=task-timer-pomodoro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/task-timer-pomodoro)
-[![Slide Puzzle Arize](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=slide_puzzle_arize&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/slide_puzzle_arize)
+[![Floating WordPress to WhatsApp Contact Form](https://github-readme-stats.vercel.app/api/pin/?username=arize99&repo=slide_puzzle_arize&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arize99/Floating-WordPress-to-WhatsApp-Contact-Form)
 
 <p align="left">
   <a href="https://github.com/arize99?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
