@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/arize99"><img width="350px" height="350px" src="/assets/arize.gif"></a>
+  <a href="https://github.com/arize99"><img width="350px" height="350px" src="https://avatars.githubusercontent.com/u/28790396?v=4"></a>
 </p>
 
  
